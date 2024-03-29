@@ -2,9 +2,7 @@
 ## Archives of my old google sites.
 - [Cat Oasis](cat-oasis/Home.html)
 - [Cat Tomato Books](cat-tomato-books/Home.html)
-- [Cat Tomato Media](cat-tomato-media/home.html)
 - [Cat Tomato Plus](cat-tomato-plus/Home.html)
 - [Cat Tomato (main site)](cat-tomato/home.html)
 - [CT Help Center](ct-help-center/Home.html)
-- [games.fun](gamesfun/Home.html)
 - [MeowMeow.com](meow-meow-com/Home.html)
